@@ -1,8 +1,9 @@
 # DES222 Task 2 Process Journal
 ***
-### The following is the initial pitch presented in the Week 6 Pitch Padlet:
+### The following is the initial pitch presented in the Week 6 Pitch Padlet: Digital Kaleidoscope
 <img width="785" height="1270" alt="image" src="https://github.com/user-attachments/assets/a7fa6e04-d15f-4f73-9f0a-997abbae0f6c" />
 ## Digital Kaleidoscope
+
 My thought is to create some digital art. I could host a webpage on a raspberry pi that shows a kaleidoscope type live image that evolves in response to inputs from a few sensors 
 
 - ambient light (colour palate - low light dark pastels -> bright light sharply contrasting colours), 
@@ -34,5 +35,3 @@ and config OS WIFI for a captive portal
 May reduce to just 2 sensors ...
 
 Basic input-response mapping for light level controls color palette and sound level triggers flashes. Keep the visual algorithm straightforward, e.g., radial symmetrical shapes with color and brightness mapped to sensor data...
-
-Or share the load ...
